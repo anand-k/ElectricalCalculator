@@ -6,5 +6,8 @@
     <string name="homescreen_topics">Topics</string>
     <string name="homescreen_glossary">Glossary</string>
     <string name="homescreen_exit">Exit</string>
+    <string name="listsearch">Search</string>
+    <string name="spinner_title">Select Category</string>
+    <string name="sub_topic">Sub-topics</string>
 
 </resources>
